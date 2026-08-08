@@ -27,7 +27,7 @@ public class Ref_Lec_2_Amazon_Ques {
             System.out.println( "Buss");
         }
         else {
-            System.out.println( "");
+            System.out.println( "Nothing");
         }
     }
 }
