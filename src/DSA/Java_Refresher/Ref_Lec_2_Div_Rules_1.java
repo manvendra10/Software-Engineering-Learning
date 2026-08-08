@@ -1,6 +1,6 @@
 package DSA.Java_Refresher;
 
-public class Ref_Lec_2_Division_Rules_1 {
+public class Ref_Lec_2_Div_Rules_1 {
     public static void main(String[] args) {
         /*
         Theory
